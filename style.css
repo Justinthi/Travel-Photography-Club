@@ -32,7 +32,7 @@ input[type="password"] {
     border-radius: 4px;
     
     /* Task 4: Transitions for border-color and background-color */
-    /* Additonal Resources: https://www.w3schools.com/css/css3_transitions.asp */
+    /* Additional Resources: https://www.w3schools.com/css/css3_transitions.asp */
     transition: border-color 0.3s ease, background-color 0.3s ease;
 }
 
